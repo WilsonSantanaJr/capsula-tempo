@@ -1,7 +1,6 @@
 # capsula-tempo
 Projeto da rocketseat nlw de uma capsula do tempo.
 
-![preview](./github/preview.png)
 [Clique aqui para acessar](https://wilsonsantanajr.github.io/capsula-tempo/)
 
 ## Feito Com
